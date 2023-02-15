@@ -1,28 +1,21 @@
-#Tic-Tac-Toe 
+🚀 About Me
+Name: amol mujgule
 
-This project is a simple tic-tac-toe game built with HTML, CSS, and JavaScript.
+Age: 18
 
-##Features 
+Location: New York, NY
 
-* Player vs Player mode
-* Player vs Computer mode
-* Responsive design for mobile
+Profession: Full-Stack Web Developer
 
-##How to Play
+Skills: HTML, CSS, JavaScript, React, Node.js, MongoDB, Express.js, MySQL, PHP
 
-1. Choose Player vs Player or Player vs Computer
-2. Click a square to start the game
-3. Take turns clicking squares to get three in a row
-4. The first player to get three in a row wins
+Education: Bachelor's Degree in Computer Science
 
-##Installation 
+Experience: 5+ years of professional experience in web development, including developing and maintaining websites, web applications, and mobile applications.
 
-No installation required. Just open the index.html file in your browser to play.
+Objective: To use my technical expertise and problem-solving skills to create solutions and improve the user experience within various web applications.
 
-##Contributing 
+Interests: Keep up with the latest web technologies, attending web development conferences, and exploring new programming languages.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-##License 
-
-This project is licensed under the MIT License.
+🛠 Skills
+Javascript, HTML, CSS...
